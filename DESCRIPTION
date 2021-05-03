@@ -1,15 +1,13 @@
 Package: trendsentiments
+Type: package
 Title: Visualize The Average Sentiment Of The Top Five Twitter Trends From A Country
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Angela",
-           family = "Cordoba",
-           role = c("aut", "cre"),
-           email = "angelita.cordoba3@gmail.com")
+Author: Angela Cordoba
+Maintainer: Angela Cordoba <angelita.cordoba3@gmail.com>
 Description: Calculates the average sentiment of each of the top five Twitter trends
              from a country based on the tweets about it, and visualizes them in 
              a bar graph.
-License: use_gpl3_license()
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
