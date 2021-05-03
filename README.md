@@ -41,7 +41,7 @@ get\_token()
 Next, the entertainment begins with <code>trendsentiments</code>.
 
 Its first and only argument takes the name of a country, in lowercase
-letters and surrounded by quotation marks, that users want to see
+letters and surrounded by quotation marks, that users want to
 analyze the trends from.
 
 The package will analyze 100 tweets from each of the top 5 trends of the
