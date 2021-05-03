@@ -43,7 +43,7 @@ get_token()
 Next, the entertainment begins with <code>trendsentiments</code>.
 
 Its first and only argument takes the name of a country, in lowercase letters and
-surrounded by quotation marks, that users want to see analyze the trends from.
+surrounded by quotation marks, that users want to analyze the trends from.
 
 The package will analyze 100 tweets from each of the top 5 trends of the selected 
 country. If the user does not specify a country when using the function, the default
@@ -67,9 +67,6 @@ trendsentiments("canada")
   #average sentiment based on tweets, and a bar graph visualizing the table.
 
 ```
-
-![alt text](https://github.com/angelacordoba/trendsentiments/blob/main/images/Canada.png)
-
 
 This process might take a couple of minutes while <code>trendsentiments</code>
 streams tweets from the trends.
