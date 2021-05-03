@@ -9,7 +9,7 @@ Authors@R:
 Description: Calculates the average sentiment of each of the top five Twitter trends
              from a country based on the tweets about it, and visualizes them in 
              a bar graph.
-License: use_gpl3_license() 
+License: GPL-3 
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
