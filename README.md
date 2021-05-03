@@ -68,6 +68,7 @@ trendsentiments("canada")
 
 ![alt text](https://github.com/angelacordoba/trendsentiments/blob/main/images/Canada.png)
 
+
 This process might take a couple of minutes while
 <code>trendsentiments</code> streams tweets from the trends.
 
