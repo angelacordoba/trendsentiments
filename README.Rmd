@@ -67,7 +67,6 @@ trendsentiments("canada")
   #average sentiment based on tweets.
 
 ```
-![](images/Canada.png)
 
 This process might take a couple of minutes while <code>trendsentiments</code>
 streams tweets from the trends.
