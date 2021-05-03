@@ -64,11 +64,12 @@ trendsentiments("canada")
        
 
 ## Result is a table with the top 5 trends of Canada and their corresponding 
-  #average sentiment based on tweets.
+  #average sentiment based on tweets, and a bar graph visualizing the table.
 
 ```
 
 ![alt text](https://github.com/angelacordoba/trendsentiments/blob/main/images/Canada.png)
+
 
 This process might take a couple of minutes while <code>trendsentiments</code>
 streams tweets from the trends.
